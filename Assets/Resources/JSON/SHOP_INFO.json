@@ -1,0 +1,157 @@
+{
+	"SHOP_INFO": {
+		"1": {
+			"NAME": "10만골드",
+			"BONUS": "NULL",
+			"SLOT_TYPE": "1",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 10,
+			"IMAGE": "MONEY1",
+			"BUY_TOTAL": "100000",
+			"BUY_TOTAL_NAME" : "GOLD"
+			
+		},
+		"2": {
+			"NAME": "25만골드",
+			"BONUS": "NULL",
+			"SLOT_TYPE": "1",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 20,
+			"IMAGE": "MONEY2",
+			"BUY_TOTAL": "250000",
+			"BUY_TOTAL_NAME" : "GOLD"
+		
+		},
+		"3": {
+			"NAME": "100만 골드",
+			"BONUS": "10만 골드",
+			"SLOT_TYPE": "1",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 80,
+			"IMAGE": "MONEY3",
+			"BUY_TOTAL": "1100000",
+			"BUY_TOTAL_NAME" : "GOLD"
+			
+		},
+		"4": {
+			"NAME": "200만 골드",
+			"BONUS": "22만 골드",
+			"SLOT_TYPE": "1",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 150,
+			"IMAGE": "MONEY4",
+			"BUY_TOTAL_NAME" : "GOLD"
+			
+		},
+		"5": {
+			"NAME": "5 크리스탈",
+			"BONUS": "NULL",
+			"SLOT_TYPE": "2",
+			"BUY_TO": "GOLD",
+			"BUY_EA": 50000,
+			"IMAGE": "CRYSTAL1",
+			"BUY_TOTAL": "5",
+			"BUY_TOTAL_NAME" : "CRYSTAL"
+		},
+		"6": {
+			"NAME": "20 크리스탈",
+			"BONUS": "2 크리스탈",
+			"SLOT_TYPE": "2",
+			"BUY_TO": "GOLD",
+			"BUY_EA": 100000,
+			"IMAGE": "CRYSTAL2",
+			"BUY_TOTAL": "22",
+			"BUY_TOTAL_NAME" : "CRYSTAL"
+		},
+		"7": {
+			"NAME": "100 크리스탈",
+			"BONUS": "22 크리스탈",
+			"SLOT_TYPE": "2",
+			"BUY_TO": "GOLD",
+			"BUY_EA": 500000,
+			"IMAGE": "CRYSTAL3",
+			"BUY_TOTAL": "122",
+			"BUY_TOTAL_NAME" : "CRYSTAL"
+		},
+		"8": {
+			"NAME": "150 크리스탈",
+			"BONUS": "30 크리스탈",
+			"SLOT_TYPE": "2",
+			"BUY_TO": "GOLD",
+			"BUY_EA": 750000,
+			"IMAGE": "CRYSTAL4",
+			"BUY_TOTAL": "180",
+			"BUY_TOTAL_NAME" : "CRYSTAL"
+		},
+		"9": {
+			"NAME": "200 크리스탈",
+			"BONUS": "50 크리스탈",
+			"SLOT_TYPE": "2",
+			"BUY_TO": "GOLD",
+			"BUY_EA": 1000000,
+			"IMAGE": "CRYSTAL5",
+			"BUY_TOTAL": "250",
+			"BUY_TOTAL_NAME" : "CRYSTAL"
+		},
+		"10": {
+			"NAME": "1000만 골드",
+			"BONUS": "200만 골드",
+			"SLOT_TYPE": "1",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 700,
+			"IMAGE": "MONEY5",
+			"BUY_TOTAL": "12000000",
+			"BUY_TOTAL_NAME" : "GOLD"
+		},
+		"11": {
+			"NAME": "20 스테미나",
+			"BONUS": "NULL",
+			"SLOT_TYPE": "3",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 2,
+			"IMAGE": "STAMINA1",
+			"BUY_TOTAL": "20",
+			"BUY_TOTAL_NAME" : "STAMINA"
+		},
+		"12": {
+			"NAME": "40 스테미나",
+			"BONUS": "NULL",
+			"SLOT_TYPE": "3",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 4,
+			"IMAGE": "STAMINA2",
+			"BUY_TOTAL": "40",
+			"BUY_TOTAL_NAME" : "STAMINA"
+		},
+		"13": {
+			"NAME": "60 스테미나",
+			"BONUS": "5 스테미나",
+			"SLOT_TYPE": "3",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 6,
+			"IMAGE": "STAMINA3",
+			"BUY_TOTAL": "65",
+			"BUY_TOTAL_NAME" : "STAMINA"
+		},
+		"14": {
+			"NAME": "100 스테미나",
+			"BONUS": "10 스테미나",
+			"SLOT_TYPE": "3",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 10,
+			"IMAGE": "STAMINA4",
+			"BUY_TOTAL": "110",
+			"BUY_TOTAL_NAME" : "STAMINA"
+		},
+		"15": {
+			"NAME": "200 스테미나",
+			"BONUS": "40 스테미나",
+			"SLOT_TYPE": "3",
+			"BUY_TO": "CRYSTAL",
+			"BUY_EA": 20,
+			"IMAGE": "STAMINA5",
+			"BUY_TOTAL": "240",
+			"BUY_TOTAL_NAME" : "STAMINA"
+		}
+	}
+}

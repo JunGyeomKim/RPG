@@ -1,0 +1,100 @@
+{
+	"ITEM_INFO": {
+		"1": {
+			"NAME": "단검",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 10,
+			"DEFENCE": 0,
+			"IMAGE": "dagger"
+		},
+		"2": {
+			"NAME": "장검",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 20,
+			"DEFENCE": 0,
+			"IMAGE": "longsword"
+		},
+		"3": {
+			"NAME": "전설의검",
+			"SLOT_TYPE": 0,
+			"MAX_HP": 0,
+			"ATTACK": 30,
+			"DEFENCE": 0,
+			"IMAGE": "greatsword"
+		},
+		"4": {
+			"NAME": "나무갑옷",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 100,
+			"ATTACK": 0,
+			"DEFENCE": 20,
+			"IMAGE": "clothes"
+		},
+		"5": {
+			"NAME": "녹슨갑옷",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 200,
+			"ATTACK": 0,
+			"DEFENCE": 30,
+			"IMAGE": "leather_armor"
+		},
+		"6": {
+			"NAME": "철갑옷",
+			"SLOT_TYPE": 1,
+			"MAX_HP": 300,
+			"ATTACK": 0,
+			"DEFENCE": 40,
+			"IMAGE": "steel_armor"
+		},
+		"7": {
+			"NAME": "장갑",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 100,
+			"ATTACK": 0,
+			"DEFENCE": 10,
+			"IMAGE": "gloves"
+		},
+		"8": {
+			"NAME": "벨트",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 200,
+			"ATTACK": 0,
+			"DEFENCE": 20,
+			"IMAGE": "belts"
+		},
+		"9": {
+			"NAME": "부츠",
+			"SLOT_TYPE": 2,
+			"MAX_HP": 300,
+			"ATTACK": 0,
+			"DEFENCE": 30,
+			"IMAGE": "boots"
+		},
+		"10": {
+			"NAME": "나무방패",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 0,
+			"ATTACK": 10,
+			"DEFENCE": 5,
+			"IMAGE": "shoulders"
+		},
+		"11": {
+			"NAME": "녹슨방패",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 10,
+			"ATTACK": 20,
+			"DEFENCE": 10,
+			"IMAGE": "buckler"
+		},
+		"12": {
+			"NAME": "철갑옷",
+			"SLOT_TYPE": 3,
+			"MAX_HP": 20,
+			"ATTACK": 40,
+			"DEFENCE": 15,
+			"IMAGE": "shield"
+		}
+	}
+}

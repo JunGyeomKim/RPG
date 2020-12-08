@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 126af601947519747916d61f80fdf013
+timeCreated: 1498023901
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenPixel Mini Square
+  fontNames:
+  - KenPixel Mini Square
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: abca9cb214665364eb7a302198d3e04f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

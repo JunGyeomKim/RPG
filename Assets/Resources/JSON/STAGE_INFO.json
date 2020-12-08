@@ -1,0 +1,235 @@
+{
+	"STAGE_INFO": {
+		"1": {
+			"STAGE_NUM": 1,
+			"NAME": "1-1",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 1,
+			"USE_STAMINA" : 3,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"2": {
+			"STAGE_NUM": 1,
+			"NAME": "1-2",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 15,
+			"USE_STAMINA" : 3,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"3": {
+			"STAGE_NUM": 1,
+			"NAME": "1-3",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 20,
+			"USE_STAMINA" : 3,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"4": {
+			"STAGE_NUM": 1,
+			"NAME": "1-4",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 25,
+			"USE_STAMINA" : 4,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"5": {
+			"STAGE_NUM": 1,
+			"NAME": "1-5",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 30,
+			"USE_STAMINA" : 4,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"6": {
+			"STAGE_NUM": 1,
+			"NAME": "1-6",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 35,
+			"USE_STAMINA" : 4,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"7": {
+			"STAGE_NUM": 1,
+			"NAME": "1-7",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 40,
+			"USE_STAMINA" : 4,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"8": {
+			"STAGE_NUM": 1,
+			"NAME": "1-8",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 45,
+			"USE_STAMINA" : 5,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"9": {
+			"STAGE_NUM": 1,
+			"NAME": "1-9",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 50,
+			"USE_STAMINA" : 5,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"10": {
+			"STAGE_NUM": 1,
+			"NAME": "1-10",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 5,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"11": {
+			"STAGE_NUM": 2,
+			"NAME": "2-1",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 5,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"12": {
+			"STAGE_NUM": 2,
+			"NAME": "2-2",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 5,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"13": {
+			"STAGE_NUM": 2,
+			"NAME": "2-3",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 6,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"14": {
+			"STAGE_NUM": 2,
+			"NAME": "2-4",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 6,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"15": {
+			"STAGE_NUM": 2,
+			"NAME": "2-5",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 6,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"16": {
+			"STAGE_NUM": 2,
+			"NAME": "2-6",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 6,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"17": {
+			"STAGE_NUM": 2,
+			"NAME": "2-7",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 7,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"18": {
+			"STAGE_NUM": 2,
+			"NAME": "2-8",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 7,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"19": {
+			"STAGE_NUM": 2,
+			"NAME": "2-9",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 0,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 7,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"20": {
+			"STAGE_NUM": 2,
+			"NAME": "2-10",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 7,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		},
+		"21": {
+			"STAGE_NUM": 2,
+			"NAME": "2-11",
+			"MAP_MODEL": "STAGE_1",
+			"CLEAR_TYPE": 1,
+			"CLEAR_FINISH": 55,
+			"USE_STAMINA" : 7,
+			"GET_GOLD" : 500,
+			"GET_ACTOR" : 0,
+			"GET_ITEM" : 0
+		}
+	}
+}

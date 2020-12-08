@@ -1,0 +1,24 @@
+{
+	"USE_INFO": {
+		"1": {
+			"GRADE": 1,
+			"NAME": "PLAYER"
+		},
+		"2": {
+			"GRADE": 2,
+			"NAME": "bowgirl"
+		},
+		"3": {
+			"GRADE": 3,
+			"NAME": "StoneKing"
+		},
+		"4": {
+			"GRADE": 4,
+			"NAME": "micro_dragon"
+		},
+		"5": {
+			"GRADE": 5,
+			"NAME": "Knight"
+		}
+	}
+}

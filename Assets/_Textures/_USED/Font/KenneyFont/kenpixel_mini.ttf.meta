@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c762a3957f39020408dd90c50fab7359
+timeCreated: 1498023901
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: KenPixel Mini
+  fontNames:
+  - KenPixel Mini
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: fe688f76a8455a143a27080e5ceb9dec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
